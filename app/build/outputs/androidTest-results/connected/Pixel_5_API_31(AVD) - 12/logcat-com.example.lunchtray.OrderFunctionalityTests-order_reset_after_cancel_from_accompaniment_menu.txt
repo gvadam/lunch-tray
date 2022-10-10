@@ -1,0 +1,56 @@
+07-23 01:08:16.353  7665  7690 I TestRunner: started: order_reset_after_cancel_from_accompaniment_menu(com.example.lunchtray.OrderFunctionalityTests)
+07-23 01:08:16.361  7665  7690 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-23 01:08:16.382   751   846 D SplashScreenView: Build android.window.SplashScreenView{df850bc V.E...... ......ID 0,0-0,0}
+07-23 01:08:16.382   751   846 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-23 01:08:16.382   751   846 D SplashScreenView: Branding: view: android.view.View{8bbd845 G.ED..... ......I. 0,0-0,0 #10204a6 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-23 01:08:16.406  7665  7665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071 in: PRE_ON_CREATE
+07-23 01:08:16.406  7665  7665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071
+07-23 01:08:16.413   351   495 D goldfish-address-space: claimShared: Ask to claim region [0x3f1974000 0x3f2318000]
+07-23 01:08:16.416   351   495 D goldfish-address-space: claimShared: Ask to claim region [0x3f2318000 0x3f2cbc000]
+07-23 01:08:16.445   351   495 D goldfish-address-space: claimShared: Ask to claim region [0x3f2cbc000 0x3f3660000]
+07-23 01:08:16.457  7665  7665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071 in: CREATED
+07-23 01:08:16.459  7665  7665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071
+07-23 01:08:16.461  7665  7665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071 in: STARTED
+07-23 01:08:16.467  7665  7665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071
+07-23 01:08:16.477  7665  7665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071 in: RESUMED
+07-23 01:08:16.478  7665  7665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071
+07-23 01:08:16.482  7665  7665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071 in: PAUSED
+07-23 01:08:16.483  7665  7665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071
+07-23 01:08:16.494  1483  1483 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+07-23 01:08:16.501  1483  1483 E HwDetectorWithState: a: 3
+07-23 01:08:16.538  7665  7665 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@7cc17e1 in: PRE_ON_CREATE
+07-23 01:08:16.538  7665  7665 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-23 01:08:16.797  1779  1779 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+07-23 01:08:16.797  1779  1779 I A       : onApplyWindowInsets: Adjusting for display cutouts. Safe insets: left=0, top=136, right=0, bottom=0
+07-23 01:08:16.797  1779  1779 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+07-23 01:08:16.856  7665  7665 W ample.lunchtra: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+07-23 01:08:16.857  7665  7665 W ample.lunchtra: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+07-23 01:08:16.889  7665  7665 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@7cc17e1 in: CREATED
+07-23 01:08:16.889  7665  7665 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@7cc17e1
+07-23 01:08:16.941  7665  7665 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@7cc17e1 in: STARTED
+07-23 01:08:16.941  7665  7665 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@7cc17e1
+07-23 01:08:16.942  7665  7665 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@7cc17e1 in: RESUMED
+07-23 01:08:16.943  7665  7665 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@7cc17e1
+07-23 01:08:16.992   351   495 D goldfish-address-space: claimShared: Ask to claim region [0x3f0fd0000 0x3f1974000]
+07-23 01:08:16.997   351   495 D goldfish-address-space: claimShared: Ask to claim region [0x3f6140000 0x3f6ae4000]
+07-23 01:08:17.007   351   495 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f49a4000]
+07-23 01:08:17.043   561   588 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +668ms
+07-23 01:08:17.082  1365  1365 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+07-23 01:08:17.082  1365  1365 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+07-23 01:08:17.085  1365  1365 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+07-23 01:08:17.103  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231208/com.example.lunchtray:id/start_order_btn>
+07-23 01:08:17.116  7665  7665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071 in: STOPPED
+07-23 01:08:17.117  7665  7665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21f3071
+07-23 01:08:17.332   561  2043 W InputManager-JNI: Input channel object 'a169fb1 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+07-23 01:08:17.769  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+07-23 01:08:18.088  7665  7692 D EGL_emulation: app_time_stats: avg=22.35ms min=2.41ms max=251.40ms count=40
+07-23 01:08:18.138  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+07-23 01:08:18.578  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231187/com.example.lunchtray:id/soup>
+07-23 01:08:18.972  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+07-23 01:08:19.088  7665  7692 D EGL_emulation: app_time_stats: avg=15.96ms min=2.48ms max=247.88ms count=45
+07-23 01:08:19.392  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+07-23 01:08:19.755  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+07-23 01:08:20.116  7665  7665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231208/com.example.lunchtray:id/start_order_btn>
+07-23 01:08:20.144  7665  7692 D EGL_emulation: app_time_stats: avg=24.82ms min=4.48ms max=219.29ms count=41
+07-23 01:08:20.519  7665  7665 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Subtotal: $0.00"
+07-23 01:08:20.526  7665  7690 I TestRunner: finished: order_reset_after_cancel_from_accompaniment_menu(com.example.lunchtray.OrderFunctionalityTests)
